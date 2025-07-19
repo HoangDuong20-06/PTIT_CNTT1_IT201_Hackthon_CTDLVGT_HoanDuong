@@ -3,4 +3,4 @@ project(HN_ENG_IT201_VuNguyenHoangDuong C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(HN_ENG_IT201_VuNguyenHoangDuong Bai1.c)
+add_executable(HN_ENG_IT201_VuNguyenHoangDuong Bai1_De1.c)
